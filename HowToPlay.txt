@@ -1,0 +1,7 @@
+			SCRABBLE GAME
+-------------------------------------------------------------------------
+1. Arrow keys to control.
+2. "ENTER" to select.
+3. "R" to reset.
+3. "C" to change rack .
+4. "SPACE" to end turn.

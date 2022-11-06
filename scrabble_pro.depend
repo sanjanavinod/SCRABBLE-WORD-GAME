@@ -1,0 +1,669 @@
+# depslib dependency file v1.0
+1628072873 source:c:\users\asrit\documents\scrabble project\scrabble_pro\ui.c
+	"ui.h"
+
+1611494034 c:\users\asrit\documents\scrabble project\scrabble_pro\ui.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1628072697 source:c:\users\asrit\documents\scrabble project\scrabble_pro\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ui.h"
+
+1628074499 source:c:\users\asrit\documents\scrabble project\scrabble_pro\play_game.c
+	<stdio.h>
+	<stdlib.h>
+	"play_game.h"
+
+1628074500 c:\users\asrit\documents\scrabble project\scrabble_pro\play_game.h
+
+1628074514 source:d:\dsa project\scrabble\scrabble_pro\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ui.h"
+	"play_game.h"
+
+1611494034 d:\dsa project\scrabble\scrabble_pro\ui.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1628246447 d:\dsa project\scrabble\scrabble_pro\play_game.h
+
+1628246371 source:d:\dsa project\scrabble\scrabble_pro\play_game.c
+	<stdio.h>
+	<stdlib.h>
+	"play_game.h"
+
+1628072873 source:d:\dsa project\scrabble\scrabble_pro\ui.c
+	"ui.h"
+
+1628413698 source:d:\scrabble_pro\ui.c
+	"ui.h"
+
+1628413698 d:\scrabble_pro\ui.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1628413696 source:c:\users\asrit\documents\scrabble project\scrabble_pro (1)\scrabble_pro\ui.c
+	"ui.h"
+
+1628413696 c:\users\asrit\documents\scrabble project\scrabble_pro (1)\scrabble_pro\ui.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1628413696 source:c:\users\asrit\documents\scrabble project\scrabble_pro (1)\scrabble_pro\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ui.h"
+	"play_game.h"
+
+1628751762 c:\users\asrit\documents\scrabble project\scrabble_pro (1)\scrabble_pro\play_game.h
+	"queue.h"
+
+1628748496 c:\users\asrit\documents\scrabble project\scrabble_pro (1)\scrabble_pro\queue.h
+
+1628748944 source:c:\users\asrit\documents\scrabble project\scrabble_pro (1)\scrabble_pro\play_game.c
+	<stdio.h>
+	<stdlib.h>
+	"play_game.h"
+	<time.h>
+
+1628748862 source:c:\users\asrit\documents\scrabble project\scrabble_pro (1)\scrabble_pro\queue.c
+	<stdio.h>
+	"queue.h"
+	<stdlib.h>
+
+1628413696 source:c:\users\asrit\documents\scrabble project\scrabble_pro (2)\scrabble_pro\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ui.h"
+	"play_game.h"
+
+1628413696 c:\users\asrit\documents\scrabble project\scrabble_pro (2)\scrabble_pro\ui.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1629627392 c:\users\asrit\documents\scrabble project\scrabble_pro (2)\scrabble_pro\play_game.h
+	"queue.h"
+
+1629198424 c:\users\asrit\documents\scrabble project\scrabble_pro (2)\scrabble_pro\queue.h
+
+1629202397 source:c:\users\asrit\documents\scrabble project\scrabble_pro (2)\scrabble_pro\queue.c
+	<stdio.h>
+	"queue.h"
+	<stdlib.h>
+
+1628413696 source:c:\users\asrit\documents\scrabble project\scrabble_pro (2)\scrabble_pro\ui.c
+	"ui.h"
+
+1629201115 source:c:\users\asrit\documents\scrabble project\scrabble_pro (2)\scrabble_pro\gamestatestack.c
+	<stdio.h>
+	<stdlib.h>
+	"gamestatestack.h"
+
+1629200946 c:\users\asrit\documents\scrabble project\scrabble_pro (2)\scrabble_pro\gamestatestack.h
+	"play_game.h"
+
+1629692102 source:c:\users\asrit\documents\scrabble project\scrabble_pro (2)\scrabble_pro\play_game.c
+	<stdio.h>
+	<stdlib.h>
+	"play_game.h"
+	"gamestatestack.h"
+	"word_validation.h"
+	<time.h>
+
+1629693156 source:c:\users\asrit\documents\scrabble project\scrabble_pro (2)\scrabble_pro\word_validation.c
+	"word_validation.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1629689847 c:\users\asrit\documents\scrabble project\scrabble_pro (2)\scrabble_pro\word_validation.h
+	"play_game.h"
+
+1631342452 source:d:\dsa project\scrabble_pro\gamestatestack.c
+	<stdio.h>
+	<stdlib.h>
+	"gamestatestack.h"
+
+1629200948 d:\dsa project\scrabble_pro\gamestatestack.h
+	"play_game.h"
+
+1631342445 d:\dsa project\scrabble_pro\play_game.h
+	"queue.h"
+
+1629781587 d:\dsa project\scrabble_pro\queue.h
+
+1632902738 source:d:\dsa project\scrabble_pro\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ui.h"
+	"play_game.h"
+	"dictionary.h"
+	"settings.h"
+
+1628413698 d:\dsa project\scrabble_pro\ui.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1632902742 source:d:\dsa project\scrabble_pro\play_game.c
+	<stdio.h>
+	<stdlib.h>
+	"play_game.h"
+	"gamestatestack.h"
+	"word_validation.h"
+	<time.h>
+	"score.h"
+	"settings.h"
+	"dictionary.h"
+	"bag.h"
+
+1630998839 d:\dsa project\scrabble_pro\word_validation.h
+	"play_game.h"
+
+1632498252 source:d:\dsa project\scrabble_pro\queue.c
+	<stdio.h>
+	"queue.h"
+	<stdlib.h>
+	"bag.h"
+	"score.h"
+
+1628413698 source:d:\dsa project\scrabble_pro\ui.c
+	"ui.h"
+
+1631008158 source:d:\dsa project\scrabble_pro\word_validation.c
+	"word_validation.h"
+	"dictionary.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1629201116 source:c:\users\asrit\documents\scrabble project\scrabble project dfslk\scrabble_pro (3)\scrabble_pro\gamestatestack.c
+	<stdio.h>
+	<stdlib.h>
+	"gamestatestack.h"
+
+1629200948 c:\users\asrit\documents\scrabble project\scrabble project dfslk\scrabble_pro (3)\scrabble_pro\gamestatestack.h
+	"play_game.h"
+
+1629786303 c:\users\asrit\documents\scrabble project\scrabble project dfslk\scrabble_pro (3)\scrabble_pro\play_game.h
+	"queue.h"
+
+1629781587 c:\users\asrit\documents\scrabble project\scrabble project dfslk\scrabble_pro (3)\scrabble_pro\queue.h
+
+1629817699 c:\users\asrit\documents\scrabble project\scrabble project dfslk\scrabble_pro (3)\scrabble_pro\word_validation.h
+	"play_game.h"
+
+1630313128 source:c:\users\asrit\documents\scrabble project\scrabble project dfslk\scrabble_pro (3)\scrabble_pro\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ui.h"
+	"play_game.h"
+	"dictionary.h"
+
+1628413698 c:\users\asrit\documents\scrabble project\scrabble project dfslk\scrabble_pro (3)\scrabble_pro\ui.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1629781571 source:c:\users\asrit\documents\scrabble project\scrabble project dfslk\scrabble_pro (3)\scrabble_pro\queue.c
+	<stdio.h>
+	"queue.h"
+	<stdlib.h>
+
+1628413698 source:c:\users\asrit\documents\scrabble project\scrabble project dfslk\scrabble_pro (3)\scrabble_pro\ui.c
+	"ui.h"
+
+1630225772 source:c:\users\asrit\documents\scrabble project\scrabble project dfslk\scrabble_pro (3)\scrabble_pro\word_validation.c
+	"word_validation.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1629817872 source:c:\users\asrit\documents\scrabble project\scrabble project dfslk\scrabble_pro (3)\scrabble_pro\play_game.c
+	<stdio.h>
+	<stdlib.h>
+	"play_game.h"
+	"gamestatestack.h"
+	"word_validation.h"
+	<time.h>
+
+1630316952 source:c:\users\asrit\documents\scrabble project\scrabble project dfslk\scrabble_pro (3)\scrabble_pro\dictionary.c
+	"dictionary.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1630313094 c:\users\asrit\documents\scrabble project\scrabble project dfslk\scrabble_pro (3)\scrabble_pro\dictionary.h
+
+1629201116 source:d:\scrabble_pro\gamestatestack.c
+	<stdio.h>
+	<stdlib.h>
+	"gamestatestack.h"
+
+1629200948 d:\scrabble_pro\gamestatestack.h
+	"play_game.h"
+
+1629786303 d:\scrabble_pro\play_game.h
+	"queue.h"
+
+1629781587 d:\scrabble_pro\queue.h
+
+1630313128 source:d:\scrabble_pro\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ui.h"
+	"play_game.h"
+	"dictionary.h"
+
+1630313094 d:\scrabble_pro\dictionary.h
+
+1629817872 source:d:\scrabble_pro\play_game.c
+	<stdio.h>
+	<stdlib.h>
+	"play_game.h"
+	"gamestatestack.h"
+	"word_validation.h"
+	<time.h>
+
+1629817699 d:\scrabble_pro\word_validation.h
+	"play_game.h"
+
+1629781571 source:d:\scrabble_pro\queue.c
+	<stdio.h>
+	"queue.h"
+	<stdlib.h>
+
+1630840335 source:d:\scrabble_pro\word_validation.c
+	"word_validation.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1630839547 source:d:\scrabble_pro\dictionary.c
+	"dictionary.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1630840365 source:d:\scrabble_pro\score.c
+	<stdio.h>
+	<string.h>
+
+1631345451 source:c:\users\asrit\documents\scrabble project\scrabble project dfslk\scrabble_pro (3)\scrabble_pro (4)\scrabble_pro\dictionary.c
+	"dictionary.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1630992511 c:\users\asrit\documents\scrabble project\scrabble project dfslk\scrabble_pro (3)\scrabble_pro (4)\scrabble_pro\dictionary.h
+
+1631342452 source:c:\users\asrit\documents\scrabble project\scrabble project dfslk\scrabble_pro (3)\scrabble_pro (4)\scrabble_pro\gamestatestack.c
+	<stdio.h>
+	<stdlib.h>
+	"gamestatestack.h"
+
+1629200948 c:\users\asrit\documents\scrabble project\scrabble project dfslk\scrabble_pro (3)\scrabble_pro (4)\scrabble_pro\gamestatestack.h
+	"play_game.h"
+
+1631342445 c:\users\asrit\documents\scrabble project\scrabble project dfslk\scrabble_pro (3)\scrabble_pro (4)\scrabble_pro\play_game.h
+	"queue.h"
+
+1629781587 c:\users\asrit\documents\scrabble project\scrabble project dfslk\scrabble_pro (3)\scrabble_pro (4)\scrabble_pro\queue.h
+
+1631282685 source:c:\users\asrit\documents\scrabble project\scrabble project dfslk\scrabble_pro (3)\scrabble_pro (4)\scrabble_pro\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ui.h"
+	"play_game.h"
+	"dictionary.h"
+	"settings.h"
+
+1628413698 c:\users\asrit\documents\scrabble project\scrabble project dfslk\scrabble_pro (3)\scrabble_pro (4)\scrabble_pro\ui.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1631345370 source:c:\users\asrit\documents\scrabble project\scrabble project dfslk\scrabble_pro (3)\scrabble_pro (4)\scrabble_pro\play_game.c
+	<stdio.h>
+	<stdlib.h>
+	"play_game.h"
+	"gamestatestack.h"
+	"word_validation.h"
+	<time.h>
+	"score.h"
+	"settings.h"
+	"bag.h"
+
+1630998839 c:\users\asrit\documents\scrabble project\scrabble project dfslk\scrabble_pro (3)\scrabble_pro (4)\scrabble_pro\word_validation.h
+	"play_game.h"
+
+1631339788 source:c:\users\asrit\documents\scrabble project\scrabble project dfslk\scrabble_pro (3)\scrabble_pro (4)\scrabble_pro\queue.c
+	<stdio.h>
+	"queue.h"
+	<stdlib.h>
+	"bag.h"
+
+1631334617 source:c:\users\asrit\documents\scrabble project\scrabble project dfslk\scrabble_pro (3)\scrabble_pro (4)\scrabble_pro\score.c
+	<stdio.h>
+	<string.h>
+
+1628413698 source:c:\users\asrit\documents\scrabble project\scrabble project dfslk\scrabble_pro (3)\scrabble_pro (4)\scrabble_pro\ui.c
+	"ui.h"
+
+1631008158 source:c:\users\asrit\documents\scrabble project\scrabble project dfslk\scrabble_pro (3)\scrabble_pro (4)\scrabble_pro\word_validation.c
+	"word_validation.h"
+	"dictionary.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1631002149 c:\users\asrit\documents\scrabble project\scrabble project dfslk\scrabble_pro (3)\scrabble_pro (4)\scrabble_pro\score.h
+	"score.h"
+
+1631282733 c:\users\asrit\documents\scrabble project\scrabble project dfslk\scrabble_pro (3)\scrabble_pro (4)\scrabble_pro\settings.h
+
+1631282864 source:c:\users\asrit\documents\scrabble project\scrabble project dfslk\scrabble_pro (3)\scrabble_pro (4)\scrabble_pro\settings.c
+	"settings.h"
+	"stdio.h"
+
+1631339509 c:\users\asrit\documents\scrabble project\scrabble project dfslk\scrabble_pro (3)\scrabble_pro (4)\scrabble_pro\bag.h
+
+1631345631 source:c:\users\asrit\documents\scrabble project\scrabble project dfslk\scrabble_pro (3)\scrabble_pro (4)\scrabble_pro\bag.c
+	"bag.h"
+	<time.h>
+	<stdlib.h>
+
+1631345452 source:d:\scrabble_pro\scrabble_pro\dictionary.c
+	"dictionary.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1632498422 d:\scrabble_pro\scrabble_pro\dictionary.h
+
+1631342454 source:d:\scrabble_pro\scrabble_pro\gamestatestack.c
+	<stdio.h>
+	<stdlib.h>
+	"gamestatestack.h"
+
+1629200948 d:\scrabble_pro\scrabble_pro\gamestatestack.h
+	"play_game.h"
+
+1631342446 d:\scrabble_pro\scrabble_pro\play_game.h
+	"queue.h"
+
+1629781588 d:\scrabble_pro\scrabble_pro\queue.h
+
+1632902744 source:d:\scrabble_pro\scrabble_pro\play_game.c
+	<stdio.h>
+	<stdlib.h>
+	"play_game.h"
+	"gamestatestack.h"
+	"word_validation.h"
+	<time.h>
+	"score.h"
+	"settings.h"
+	"dictionary.h"
+	"bag.h"
+
+1630998840 d:\scrabble_pro\scrabble_pro\word_validation.h
+	"play_game.h"
+
+1632498262 d:\scrabble_pro\scrabble_pro\score.h
+
+1631282734 d:\scrabble_pro\scrabble_pro\settings.h
+
+1631339510 d:\scrabble_pro\scrabble_pro\bag.h
+
+1632498254 source:d:\scrabble_pro\scrabble_pro\queue.c
+	<stdio.h>
+	"queue.h"
+	<stdlib.h>
+	"bag.h"
+	"score.h"
+
+1632636238 source:d:\scrabble_pro\scrabble_pro\score.c
+	"score.h"
+	<stdio.h>
+	<string.h>
+
+1628413698 source:d:\scrabble_pro\scrabble_pro\ui.c
+	"ui.h"
+
+1628413698 d:\scrabble_pro\scrabble_pro\ui.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1631008160 source:d:\scrabble_pro\scrabble_pro\word_validation.c
+	"word_validation.h"
+	"dictionary.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1631345632 source:d:\scrabble_pro\scrabble_pro\bag.c
+	"bag.h"
+	<time.h>
+	<stdlib.h>
+
+1631282866 source:d:\scrabble_pro\scrabble_pro\settings.c
+	"settings.h"
+	"stdio.h"
+
+1632903244 source:d:\scrabble_pro\scrabble_pro\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ui.h"
+	"play_game.h"
+	"dictionary.h"
+	"settings.h"
+
+1631345631 source:c:\users\asrit\downloads\scrabble_pro (5)\scrabble_pro\bag.c
+	"bag.h"
+	<time.h>
+	<stdlib.h>
+
+1631339509 c:\users\asrit\downloads\scrabble_pro (5)\scrabble_pro\bag.h
+
+1631345451 source:c:\users\asrit\downloads\scrabble_pro (5)\scrabble_pro\dictionary.c
+	"dictionary.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1632498420 c:\users\asrit\downloads\scrabble_pro (5)\scrabble_pro\dictionary.h
+
+1631342452 source:c:\users\asrit\downloads\scrabble_pro (5)\scrabble_pro\gamestatestack.c
+	<stdio.h>
+	<stdlib.h>
+	"gamestatestack.h"
+
+1629200948 c:\users\asrit\downloads\scrabble_pro (5)\scrabble_pro\gamestatestack.h
+	"play_game.h"
+
+1631342445 c:\users\asrit\downloads\scrabble_pro (5)\scrabble_pro\play_game.h
+	"queue.h"
+
+1629781587 c:\users\asrit\downloads\scrabble_pro (5)\scrabble_pro\queue.h
+
+1632499470 source:c:\users\asrit\downloads\scrabble_pro (5)\scrabble_pro\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ui.h"
+	"play_game.h"
+	"dictionary.h"
+	"settings.h"
+
+1628413698 c:\users\asrit\downloads\scrabble_pro (5)\scrabble_pro\ui.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1631282733 c:\users\asrit\downloads\scrabble_pro (5)\scrabble_pro\settings.h
+
+1632529329 source:c:\users\asrit\downloads\scrabble_pro (5)\scrabble_pro\play_game.c
+	<stdio.h>
+	<stdlib.h>
+	"play_game.h"
+	"gamestatestack.h"
+	"word_validation.h"
+	<time.h>
+	"score.h"
+	"settings.h"
+	"dictionary.h"
+	"bag.h"
+
+1630998839 c:\users\asrit\downloads\scrabble_pro (5)\scrabble_pro\word_validation.h
+	"play_game.h"
+
+1632498260 c:\users\asrit\downloads\scrabble_pro (5)\scrabble_pro\score.h
+
+1632498252 source:c:\users\asrit\downloads\scrabble_pro (5)\scrabble_pro\queue.c
+	<stdio.h>
+	"queue.h"
+	<stdlib.h>
+	"bag.h"
+	"score.h"
+
+1632498237 source:c:\users\asrit\downloads\scrabble_pro (5)\scrabble_pro\score.c
+	"score.h"
+	<stdio.h>
+	<string.h>
+
+1631282864 source:c:\users\asrit\downloads\scrabble_pro (5)\scrabble_pro\settings.c
+	"settings.h"
+	"stdio.h"
+
+1628413698 source:c:\users\asrit\downloads\scrabble_pro (5)\scrabble_pro\ui.c
+	"ui.h"
+
+1631008158 source:c:\users\asrit\downloads\scrabble_pro (5)\scrabble_pro\word_validation.c
+	"word_validation.h"
+	"dictionary.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1631345631 source:d:\dsa project\scrabble_pro\bag.c
+	"bag.h"
+	<time.h>
+	<stdlib.h>
+
+1631339509 d:\dsa project\scrabble_pro\bag.h
+
+1631345451 source:d:\dsa project\scrabble_pro\dictionary.c
+	"dictionary.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1632498420 d:\dsa project\scrabble_pro\dictionary.h
+
+1631282733 d:\dsa project\scrabble_pro\settings.h
+
+1632498260 d:\dsa project\scrabble_pro\score.h
+
+1632636237 source:d:\dsa project\scrabble_pro\score.c
+	"score.h"
+	<stdio.h>
+	<string.h>
+
+1631282864 source:d:\dsa project\scrabble_pro\settings.c
+	"settings.h"
+	"stdio.h"
+
+1631345632 source:d:\3rd sem\scrabble_pro\scrabble_pro\bag.c
+	"bag.h"
+	<time.h>
+	<stdlib.h>
+
+1631339510 d:\3rd sem\scrabble_pro\scrabble_pro\bag.h
+
+1631345452 source:d:\3rd sem\scrabble_pro\scrabble_pro\dictionary.c
+	"dictionary.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1632498422 d:\3rd sem\scrabble_pro\scrabble_pro\dictionary.h
+
+1631342454 source:d:\3rd sem\scrabble_pro\scrabble_pro\gamestatestack.c
+	<stdio.h>
+	<stdlib.h>
+	"gamestatestack.h"
+
+1629200948 d:\3rd sem\scrabble_pro\scrabble_pro\gamestatestack.h
+	"play_game.h"
+
+1631342446 d:\3rd sem\scrabble_pro\scrabble_pro\play_game.h
+	"queue.h"
+
+1629781588 d:\3rd sem\scrabble_pro\scrabble_pro\queue.h
+
+1632903244 source:d:\3rd sem\scrabble_pro\scrabble_pro\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ui.h"
+	"play_game.h"
+	"dictionary.h"
+	"settings.h"
+
+1628413698 d:\3rd sem\scrabble_pro\scrabble_pro\ui.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1631282734 d:\3rd sem\scrabble_pro\scrabble_pro\settings.h
+
+1632902744 source:d:\3rd sem\scrabble_pro\scrabble_pro\play_game.c
+	<stdio.h>
+	<stdlib.h>
+	"play_game.h"
+	"gamestatestack.h"
+	"word_validation.h"
+	<time.h>
+	"score.h"
+	"settings.h"
+	"dictionary.h"
+	"bag.h"
+
+1630998840 d:\3rd sem\scrabble_pro\scrabble_pro\word_validation.h
+	"play_game.h"
+
+1632498262 d:\3rd sem\scrabble_pro\scrabble_pro\score.h
+
+1632498254 source:d:\3rd sem\scrabble_pro\scrabble_pro\queue.c
+	<stdio.h>
+	"queue.h"
+	<stdlib.h>
+	"bag.h"
+	"score.h"
+
+1632636238 source:d:\3rd sem\scrabble_pro\scrabble_pro\score.c
+	"score.h"
+	<stdio.h>
+	<string.h>
+
+1631282866 source:d:\3rd sem\scrabble_pro\scrabble_pro\settings.c
+	"settings.h"
+	"stdio.h"
+
+1628413698 source:d:\3rd sem\scrabble_pro\scrabble_pro\ui.c
+	"ui.h"
+
